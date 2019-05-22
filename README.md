@@ -1,4 +1,4 @@
 # ControlFip
 Controle Financeiro Pessoal
 
-Autora: Lavinia Reisen
+Autor: Isaac Silvério
